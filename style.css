@@ -5,23 +5,18 @@
     font-family: "Roboto", sans-serif;
 }
 
-body {
-    background-color: #8A51FC
-}
+body { background-image: url(./assets/homem-de-tiro-com-moedas.jpg);
 
-.img-logo {
-
-    width: 300px;
-    display: block;
-    margin: 20px auto;
 }
 
 main {
     width: 375px;
+    height: 100%;
     background: #FFFF;
     border-radius: 20px;
-    margin: 0 auto;
+    margin: 10% auto;
     padding: 44px 24px 23px;
+    display: block;
 }
 
 label {
@@ -49,7 +44,7 @@ height: 48px;
 width: 100%;
 display: block;
 border-radius: 5px;
-background: #772FD3;
+background: #28266e;
 font-size: 18px;
 font-weight: 700;
 line-height: 18px;
@@ -68,7 +63,7 @@ button:active {
 }
 
 section { 
-    border: 1px solid #772FD3; 
+    border: 1px solid #28266e; 
     border-radius: 20px;
     margin-top: 26px;
     width: 327px;
@@ -89,7 +84,7 @@ div {
 font-size: 14px;
 font-weight: 400;
 line-height: 18px;
-color: #777777;
+color: #28266e;
 
 
 }
@@ -99,7 +94,7 @@ color: #777777;
 font-size: 20px;
 font-weight: 700;
 line-height: 18px;
-color: #555555;
+color: #28266e;
 
 
     }
